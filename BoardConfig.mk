@@ -17,6 +17,7 @@ AB_OTA_PARTITIONS += \
     boot \
     dtbo \
     system \
+    system_dlkm \
     product \
     vendor \
     odm \
